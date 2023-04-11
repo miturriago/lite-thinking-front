@@ -1,0 +1,1 @@
+export const IMG_LOGO = "https://s4-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/524/000/original/habi-morado.png?1642725015";
